@@ -1,0 +1,5 @@
+git add .github/workflows/youtube_stats_daily.yml
+git rm --cached? # Not needed
+git add -u youtube_stats_daily.yml
+git commit -m "Add daily YouTube stats workflow"
+git push
